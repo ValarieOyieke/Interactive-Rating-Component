@@ -98,3 +98,20 @@ button {
     color: hsl(25, 97%, 53%);
 }
 
+.thankyou-state{
+    text-align: center;
+}
+
+.selected{
+    color: chocolate;
+    margin-top: 20px;
+    background-color: hsl(216, 21%, 14%);
+    border-radius: 20px;
+    padding: 5px;
+    width: 180px;
+    margin: auto;
+}
+.selected-holder{
+    margin-top: 20px;
+}
+
